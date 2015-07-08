@@ -1,0 +1,1 @@
+The project is focussed on the development of multi-dimensional networks for machine learning
